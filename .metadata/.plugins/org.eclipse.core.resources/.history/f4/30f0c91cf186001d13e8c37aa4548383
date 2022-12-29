@@ -1,0 +1,9 @@
+package com.digitalInovationOne.SpringBoot.Config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@Configuration.Properties("spring.datasource")
+public class DBConfiguration {
+
+}

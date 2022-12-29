@@ -1,0 +1,5 @@
+package com.digitalInovationOne.SpringBoot.Config;
+
+public class DbConfiguration {
+
+}

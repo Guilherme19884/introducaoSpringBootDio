@@ -1,0 +1,5 @@
+package com.digitalInovationOne.SpringBoot.controller;
+
+public class HelloWord {
+
+}
