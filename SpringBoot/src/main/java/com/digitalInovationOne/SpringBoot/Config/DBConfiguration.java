@@ -5,15 +5,21 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
+import lombok.Getter;
+import lombok.Setter;
+
 @Configuration
 @ConfigurationProperties("spring.datasource")
+@Getter
+@Setter
 public class DBConfiguration {
 
 	private String driverClassName;
 	private String url;
+	private String username;
 	private String password;
 	
-	@Profile("Dev")
+	@Profile("dev")
 	@Bean
 	public String testDataBaseConnection() {
 		System.out.println("DB Configuration for DEV - H2");

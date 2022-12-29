@@ -1,0 +1,6 @@
+package com.digitalInovationOne.SpringBoot.controller;
+
+
+public class AppController {
+
+}
