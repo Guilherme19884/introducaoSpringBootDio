@@ -446,3 +446,95 @@ Caused by: java.io.EOFException: input contained no data
 2022-12-29 01:20:33,640 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-29 01:20:33,646 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-29 01:20:33,649 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 13:10:36,426 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-29 13:17:58,900 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-29 13:17:58,957 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 13:17:58,963 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 13:20:48,973 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-29 13:20:49,004 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 13:20:49,007 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 13:21:07,736 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 13:21:07,753 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 13:21:07,755 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:34:01,612 [Worker-26: Launching SpringBoot - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-29 17:34:01,666 [Worker-26: Launching SpringBoot - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 17:34:01,670 [Worker-26: Launching SpringBoot - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:36:15,268 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 17:36:15,299 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:36:15,301 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:37:14,133 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 17:37:14,151 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:37:14,154 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:38:31,164 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 17:38:31,170 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:38:31,172 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:40:14,130 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.digitalInovationOne:SpringBoot:0.0.1-SNAPSHOT @ C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\pom.xml.
+2022-12-29 17:40:14,941 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:40:14,942 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:40:14,946 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:46:24,101 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.digitalInovationOne:SpringBoot:0.0.1-SNAPSHOT @ C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\pom.xml.
+2022-12-29 17:46:24,839 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:46:24,839 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:46:24,843 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:46:26,845 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-29 17:46:26,869 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 17:46:26,876 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:46:42,385 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.digitalInovationOne:SpringBoot:0.0.1-SNAPSHOT @ C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\pom.xml.
+2022-12-29 17:46:42,875 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:46:42,875 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 17:46:42,877 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2022-12-29 17:46:44,860 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-29 17:46:44,883 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 17:46:44,888 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:43:45,378 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-11 21:51:24,460 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 21:51:24,536 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 21:51:24,542 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:52:11,547 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 21:52:11,596 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 21:52:11,600 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:53:44,580 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 21:53:44,635 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 21:53:44,638 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:54:39,790 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 21:54:39,843 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 21:54:39,848 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:55:09,151 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 21:55:09,153 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 21:55:09,155 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:55:23,026 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 21:55:23,032 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 21:55:23,035 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 21:55:53,090 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 21:55:53,125 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 21:55:53,128 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:03:24,397 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:03:24,403 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:03:24,405 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:04:10,629 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:04:10,635 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:04:10,637 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:04:30,343 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:04:30,374 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:04:30,377 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:05:26,535 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 22:05:26,580 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:05:26,584 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:05:28,850 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 22:05:28,899 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:05:28,903 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:06:01,505 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-11 22:06:01,557 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:06:01,560 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:14:39,077 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:14:39,085 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:14:39,087 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:15:58,931 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:15:58,969 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:15:58,972 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:17:09,237 [Worker-21: Launching SpringBoot - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:17:09,244 [Worker-21: Launching SpringBoot - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:17:09,247 [Worker-21: Launching SpringBoot - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
+2023-01-11 22:34:25,177 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-11 22:34:25,184 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 22:34:25,187 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\guilh\OneDrive\Documentos\DioPro\IntroducaoFrameWorkkSpringBoot\SpringBoot\SpringBoot\src\test\resources
