@@ -1,0 +1,9 @@
+#PROD ENVIROMENT
+server.port=8085
+
+app.message=this is properties file to the ${spring.application.name} specific to PROD ENVIROMENT
+
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.url=<MYSQL_URL>
+spring.datasource.username=<USERNAME>
+spring.datasource.password=<PASSWORD>
